@@ -8,6 +8,14 @@
 </p>
 
 <h3>
+	別人的學習筆記
+	</h3>
+	<a href="https://github.com/soyaine/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit" target="_blank">缉熙Soyaine 筆記</a><br>
+	<a href="https://github.com/winar-jin/JavaScript30-Challenge/tree/master/01%20-%20JavaScript%20Drum%20Kit" target="_blank">winar-jin 筆記</a>
+
+
+
+<h3>
 		關鍵事件
 </h3>
 
