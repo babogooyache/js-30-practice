@@ -1,8 +1,7 @@
 # js-30-practice
 
-<h3>
-		介紹
-</h3>
+<h3>介紹</h3>
+
 <p>
 	利用鍵盤對應 ASDFGHJKL ，會有聲音且有動畫
 </p>
@@ -42,10 +41,13 @@
 
 		1. 
 		const:宣告 
-    2. 
+    		2. 
 		querySelector , querySelectorAll : 來獲得元素
 
 		3. `字符串 ${ 变量、属性名 } `
+		ex:https://codepen.io/babogooyache/pen/qjBwoQ?editors=1111
+		傳統: console.log("三是" + (a + b) + "不是" + (2 * a + b));
+		es6:  console.log(`三是 ${a+b} not ${2 * a + b }`);
 		
 		4. 
 		audio
